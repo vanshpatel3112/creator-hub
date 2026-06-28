@@ -1,2 +1,34 @@
-# creator-hub
-🚀 An AI-powered platform idea to help creators grow with analytics, content insights, and smart recommendations.
+# Creator Hub 🚀
+
+An AI-powered platform concept designed to help content creators grow with analytics, live streaming, content management, and brand collaboration.
+
+## 🌐 Live Demo
+
+👉 https://creator-hub.vercel.app
+
+## ✨ Features
+
+* 📊 Creator Dashboard
+* 🎥 Live Streaming Interface
+* 📈 Growth Analytics
+* 🤝 Brand Collaboration
+* 🌐 Multi-Platform Integration
+* 📱 Fully Responsive Design
+
+## 🛠️ Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript
+
+## 📸 Preview
+
+(Add screenshots here)
+
+## 🚀 Future Plans
+
+* React Frontend
+* Node.js Backend
+* MongoDB Database
+* User Authentication
+* AI-Powered Recommendations
