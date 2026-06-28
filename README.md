@@ -3,8 +3,7 @@
 An AI-powered platform concept designed to help content creators grow with analytics, live streaming, content management, and brand collaboration.
 
 ## 🌐 Live Demo
-
-👉 https://creator-hub.vercel.app
+👉 https://creator-hub-dner-j1gkm2c2d-vanshpatel3112s-projects.vercel.app
 
 ## ✨ Features
 
