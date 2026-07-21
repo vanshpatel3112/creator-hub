@@ -21,8 +21,8 @@ An AI-powered platform concept designed to help content creators grow with analy
 * JavaScript
 
 ## 📸 Preview
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f2fad1d9-8e2f-49a7-8a25-92138a414fd5" />
 
-(Add screenshots here)
 
 ## 🚀 Future Plans
 
